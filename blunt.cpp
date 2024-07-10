@@ -1,0 +1,6 @@
+#iostream.h
+
+int main()
+{
+
+}
