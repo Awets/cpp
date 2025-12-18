@@ -1,2 +1,3 @@
 this page is to practice cpp programming 
-you vì better practice it every day!
+you better practice it every day!
+To improve your code
